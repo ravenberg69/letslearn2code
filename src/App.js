@@ -18,6 +18,7 @@ const App = () => {
   namen[1].alter;
 
 // hallo test 
+llll
 
   const obj = {name: 'Hans', alter: 123}
   obj.alte
