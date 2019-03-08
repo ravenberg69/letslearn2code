@@ -17,6 +17,8 @@ const App = () => {
 
   namen[1].alter;
 
+// hallo test 
+
   const obj = {name: 'Hans', alter: 123}
   obj.alte
 
